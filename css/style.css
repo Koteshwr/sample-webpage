@@ -1,0 +1,23 @@
+.btn{
+    margin: 0px 10px;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0px;
+}
+.btn-close{
+    margin: 200px;
+}
+
+.form-select{
+    -moz-padding-start: 200px;
+  padding-inline-start: 40px;}
+
+  .main-body{
+    background: var(--bs-orange);
+    border: 2px;
+    border-color: black;
+    
+}
